@@ -1,3 +1,0 @@
- Test1 This is a test
- 
- Now I am adding to the test file
